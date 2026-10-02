@@ -2,6 +2,8 @@
 
 A collection of modern HTML and CSS templates focused on landing pages, animated backgrounds, visual UI experiments, and portfolio-ready layouts.
 
+Pre-view on https://my-project3-six.vercel.app/
+
 ## Purpose
 
 This repository is used to practice frontend structure, layout design, responsive sections, CSS effects, and reusable website concepts.
